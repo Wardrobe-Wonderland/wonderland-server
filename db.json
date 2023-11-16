@@ -137,21 +137,23 @@
       "gender": "Female",
       "price": 20.76,
       "imageLink": "https://pumpsandpushups.com/wp-content"
+    },
+   {
+      "name": "Pleated Skirt",
+      "description": "Outer fabric material: 92% Polyester, 8% Elastane",
+      "size": "Medium",
+      "gender": "Female",
+      "price": 15.89,
+      "imageLink": "https://pumpsandpushups.com/wp-content/uploads/2022/06/IMG_3185-2.jpg"
+    },
+    {
+      "name": "High Low Long Evening Dresses",
+      "description": "Outer fabric material: 92% Polyester, 8% Elastane",
+      "size": "Medium",
+      "gender": "Female",
+      "price": 29.32,
+      "imageLink": "https://amehandmadesg.com/cdn/shop/products/20361683042110909109.jpg?v=1599821655&width=1346"
     }
   ]
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
