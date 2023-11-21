@@ -5,9 +5,9 @@
       "name": "Jumper",
       "description": "Outer fabric material: 63% polyester, 19% acrylic, 10% cotton, 8% viscose",
       "size": "Large",
-      "gender": "Male",
       "price": 14.9,
-      "imageLink": "https://img01.ztat.net/article/spp-media-p1/3495fb6d78f74c41a83c132c5900c109/9dd72dee341b4a9b80b1058935be277c.jpg?imwidth=1800"
+      "gender": "Male",
+      "imageLink": "https://img01.ztat.net/article/spp-media-p1/abcd95bd968143048ef58c46b814fcfa/3d77523fc7464e5d9f45dab9760a39ea.jpg?imwidth=1800"
     },
     {
       "id": 2,
@@ -181,12 +181,13 @@
       "imageLink": "https://www.rosewe.com/images/202212/source_img/313247_P_1671590531740.jpg"
     },
     {
-      "name": "",
-      "description": "",
-      "size": "",
-      "price": "",
-      "gender": "",
-      "id": 21
+      "name": "asdd",
+      "description": "asdff",
+      "size": "45",
+      "price": "34.56",
+      "gender": "male",
+      "imageLink": "https://img01.ztat.net/article/spp-media-p1/e6205704a9c63431ab31820ce8d313d2/ce79b9b34ef14b8b89b6941dcac453f1.jpg?imwidth=500",
+      "id": 22
     }
   ]
 }
