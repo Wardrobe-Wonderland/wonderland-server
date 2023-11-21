@@ -20,12 +20,12 @@
     },
     {
       "id": 3,
-      "name": "Trainers",
-      "description": "Leather",
-      "size": 44,
+      "name": "PARKSIDE OVERSHIRT - Light jacket",
+      "description": "100% cotton",
+      "size": "Medium",
       "gender": "Male",
-      "price": 95.9,
-      "imageLink": "https://img01.ztat.net/article/spp-media-p1/7eabb0bac589486a8c579cfc04ed8158/790cc467fa834f5a97c29e4c3bb2a31e.jpg?imwidth=1800&filter=packshot"
+      "price": 83.95,
+      "imageLink": "https://img01.ztat.net/article/spp-media-p1/588c4bcd423549af8ba41b918b32821d/55ec1958f0eb4a46a6dd707a2769a5fd.jpg?imwidth=1800"
     },
     {
       "id": 4,
@@ -179,6 +179,14 @@
       "gender": "Female",
       "price": 35.89,
       "imageLink": "https://www.rosewe.com/images/202212/source_img/313247_P_1671590531740.jpg"
+    },
+    {
+      "name": "",
+      "description": "",
+      "size": "",
+      "price": "",
+      "gender": "",
+      "id": 21
     }
   ]
 }
